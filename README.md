@@ -56,7 +56,7 @@ isMultipleOf(-7, 4); // false
 
 ## License
 
-ISC
+MIT
 
 ## Author
 
