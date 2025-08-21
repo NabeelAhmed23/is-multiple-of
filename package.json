@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/your-username/is-multiple-of.git"
+    "url": "git+https://github.com/NabeelAhmed23/is-multiple-of.git"
   },
   "keywords": [
     "multiple",
@@ -17,7 +17,7 @@
   "author": "Nabeel Ahmed",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/your-username/is-multiple-of/issues"
+    "url": "https://github.com/NabeelAhmed23/is-multiple-of/issues"
   },
-  "homepage": "https://github.com/your-username/is-multiple-of#readme"
+  "homepage": "https://github.com/NabeelAhmed23/is-multiple-of#readme"
 }
