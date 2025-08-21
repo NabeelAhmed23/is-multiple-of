@@ -1,0 +1,23 @@
+{
+  "name": "is-multiple-of",
+  "version": "1.0.0",
+  "description": "Check if a target number is a multiple of a denominator",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-username/is-multiple-of.git"
+  },
+  "keywords": [
+    "multiple",
+    "modulo",
+    "math",
+    "number",
+    "divisible"
+  ],
+  "author": "Nabeel Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/your-username/is-multiple-of/issues"
+  },
+  "homepage": "https://github.com/your-username/is-multiple-of#readme"
+}
