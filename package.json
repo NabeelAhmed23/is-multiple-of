@@ -1,23 +1,28 @@
 {
-  "name": "is-multiple-of",
+  "name": "is-divisible-by",
   "version": "1.0.0",
   "description": "Check if a target number is a multiple of a denominator",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NabeelAhmed23/is-multiple-of.git"
+    "url": "git+https://github.com/NabeelAhmed23/is-divisible-by.git"
   },
   "keywords": [
     "multiple",
     "modulo",
     "math",
     "number",
-    "divisible"
+    "divisible",
+    "isDivisibleBy"
   ],
   "author": "Nabeel Ahmed",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/NabeelAhmed23/is-multiple-of/issues"
+    "url": "https://github.com/NabeelAhmed23/is-divisible-by/issues"
   },
-  "homepage": "https://github.com/NabeelAhmed23/is-multiple-of#readme"
+  "homepage": "https://github.com/NabeelAhmed23/is-divisible-by#readme",
+  "files": [
+    "index.js",
+    "README.md"
+  ]
 }

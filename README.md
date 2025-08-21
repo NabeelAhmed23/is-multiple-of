@@ -1,17 +1,17 @@
-# is-multiple-of
+# is-divisible-by
 
-A simple utility function to check if a target number is a multiple of a denominator.
+A simple utility function to check if a target number is divisible by a denominator.
 
 ## Installation
 
 ```bash
-npm install is-multiple-of
+npm install is-divisible-by
 ```
 
 ## Usage
 
 ```javascript
-const isMultipleOf = require('is-multiple-of');
+const isMultipleOf = require('is-divisible-by');
 
 // Basic usage
 console.log(isMultipleOf(10, 5)); // true
@@ -38,7 +38,7 @@ Returns `true` if `target` is a multiple of `denom`, `false` otherwise.
 ## Examples
 
 ```javascript
-const isMultipleOf = require('is-multiple-of');
+const isMultipleOf = require('is-divisible-by');
 
 // Check if 12 is a multiple of 4
 isMultipleOf(12, 4); // true
